@@ -1,2 +1,2 @@
 # weather-app-
-This is a basic weather app created using html,css and javascript 
+Basic weather app made using HTML , CSS and JavaScript 
